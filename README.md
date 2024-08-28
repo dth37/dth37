@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dth37
-- 👀 I'm interested in game design
+- 👀 I'm interested in software
 - 🌱 I'm learning English
 
 <!---
